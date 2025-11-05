@@ -1,0 +1,17 @@
+bd\JpaPersistencia.class
+logica\LoginPro.class
+igu\Sesion$1.class
+bd\exceptions\PreexistingEntityException.class
+logica\Usuario.class
+logica\JpaLogica.class
+bd\exceptions\NonexistentEntityException.class
+igu\JpaIgu.class
+igu\Registro$2.class
+logica\Usuario_.class
+igu\Sesion.class
+igu\Inicio.class
+bd\exceptions\IllegalOrphanException.class
+bd\UsuarioJpaController.class
+igu\Inicio$1.class
+igu\Registro$1.class
+igu\Registro.class

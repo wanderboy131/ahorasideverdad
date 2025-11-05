@@ -1,0 +1,12 @@
+C:\ProyectosDev\LoginPro\src\main\java\bd\exceptions\IllegalOrphanException.java
+C:\ProyectosDev\LoginPro\src\main\java\logica\Usuario.java
+C:\ProyectosDev\LoginPro\src\main\java\igu\Inicio.java
+C:\ProyectosDev\LoginPro\src\main\java\igu\Sesion.java
+C:\ProyectosDev\LoginPro\src\main\java\bd\exceptions\NonexistentEntityException.java
+C:\ProyectosDev\LoginPro\src\main\java\bd\JpaPersistencia.java
+C:\ProyectosDev\LoginPro\src\main\java\igu\JpaIgu.java
+C:\ProyectosDev\LoginPro\src\main\java\igu\Registro.java
+C:\ProyectosDev\LoginPro\src\main\java\bd\exceptions\PreexistingEntityException.java
+C:\ProyectosDev\LoginPro\src\main\java\logica\JpaLogica.java
+C:\ProyectosDev\LoginPro\src\main\java\bd\UsuarioJpaController.java
+C:\ProyectosDev\LoginPro\src\main\java\logica\LoginPro.java
